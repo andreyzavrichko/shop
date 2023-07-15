@@ -86,6 +86,3 @@ gradle clean test
 ### Графики Dashboards в Allure Report
 ![This is an image](/design/severity.jpg)
 
-
-
-
