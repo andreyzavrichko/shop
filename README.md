@@ -75,7 +75,12 @@
 gradle clean test
 ```
 
-
+#### Инструкция запуска
+- Запустить фронтенд из файла main.html
+- В файле ShopController поменять порт на свой,который отобразится в урле после открытия UI части в браузере
+- Запустить бэкенд через класс ShopApplication
+- Запустить тесты
+- Запустить отчет
 
 ### Итоговые dashboards в Allure Report
 ![This is an image](/design/summary.jpg)
