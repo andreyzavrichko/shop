@@ -18,7 +18,7 @@
 ## Используемые технологии
 ![This is an image](/design/icons/Java.png)![This is an image](/design/icons/Gradle.png)![This is an image](/design/icons/Rest-Assured.png)![This is an image](/design/icons/Intelij_IDEA.png)![This is an image](/design/icons/JUnit5.png)![This is an image](/design/icons/Allure_Report.png)
 ## Описание проекта
-Дипломный проект реализации автотестирования **Rest Api**.<br/>
+Дипломный проект реализации автотестирования.<br/>
 >В качестве объекта тестирования выбран проект https://github.com/npolyakova/shop <br/>
 
 ![This is an image](/design/site.jpg)
