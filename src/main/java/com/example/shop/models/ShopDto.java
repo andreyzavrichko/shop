@@ -8,6 +8,7 @@ public class ShopDto {
 
     private boolean shopPublic;
 
+
     public void setShopId(Long shopId) {
         this.shopId = shopId;
     }

@@ -1,12 +1,6 @@
 package com.example.shop.models;
 
-import jakarta.persistence.Column;
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
-import jakarta.persistence.Table;
-import jakarta.persistence.UniqueConstraint;
+import jakarta.persistence.*;
 
 @Entity
 @Table(name = "shops", uniqueConstraints = {@UniqueConstraint(columnNames = "shop_id")})
@@ -42,7 +36,7 @@ public class ShopPojo {
         this.shopPublic = shopPublic;
     }
 
-    @Column(name = "shop_public",  nullable = false)
+    @Column(name = "shop_public", nullable = false)
     public boolean getShopPublic() {
         return shopPublic;
     }
