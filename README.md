@@ -14,7 +14,6 @@
 >
 > ➠ [Отчёты о результатах сборок в Allure TestOps](#отчёты-о-результатах-сборок-списки-тесткейсов-аналитические-dashboards-хранятся-в-allure-testops)
 >
-> ➠ [Оповещения](#Настроено-автоматическое-оповещение-о-результатах-сборки-Jenkins-в-Telegram-бот)
 
 ## Используемые технологии
 ![This is an image](/design/icons/Java.png)![This is an image](/design/icons/Gradle.png)![This is an image](/design/icons/Rest-Assured.png)![This is an image](/design/icons/Intelij_IDEA.png)![This is an image](/design/icons/JUnit5.png)![This is an image](/design/icons/Allure_Report.png)
